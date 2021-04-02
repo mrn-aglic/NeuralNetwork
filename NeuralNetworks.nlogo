@@ -304,14 +304,14 @@ NIL
 1
 
 SLIDER
-15
-62
-162
-95
+11
+63
+165
+96
 num-hidden-layers
 num-hidden-layers
 0
-10
+30
 1
 1
 1
@@ -558,7 +558,7 @@ CHOOSER
 activation-function
 activation-function
 "logistic" "hyperbolic-tangent" "softsign"
-1
+0
 
 SLIDER
 462
@@ -675,7 +675,7 @@ CHOOSER
 data-source
 data-source
 "file" "procedure"
-1
+0
 
 BUTTON
 15

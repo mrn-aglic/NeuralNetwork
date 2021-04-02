@@ -99,8 +99,6 @@ end
 
 to train [ training-set af daf ]
   
-  set epoch-error -1
-  
   foreach training-set 
   [
     ; pair of input-data and out-data is array
